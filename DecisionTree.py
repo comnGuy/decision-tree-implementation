@@ -6,7 +6,8 @@ Decision Tree Class
 
 """
 
+
 class DecisionTree:
-    
+
     def __init__(self):
-        pass
+        print('hello')
